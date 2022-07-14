@@ -11,7 +11,7 @@ using System.Threading.Tasks;
 
 namespace FileReader
 {
-    
+    // text reader  
     [INotifyPropertyChanged]
     public partial class MainViewModel
     {
